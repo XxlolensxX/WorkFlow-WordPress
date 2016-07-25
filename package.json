@@ -9,8 +9,14 @@
   "author": "Ulises Arratia",
   "license": "ISC",
   "devDependencies": {
+    "cssnano": "^3.7.3",
     "grunt": "^1.0.1",
     "grunt-contrib-sass": "^1.0.0",
-    "grunt-contrib-watch": "^1.0.0"
+    "grunt-contrib-watch": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2"
   }
 }
