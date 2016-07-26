@@ -3,7 +3,8 @@ const gulp = require('gulp'),
     autoprefixer = require('gulp-autoprefixer'),
     rename = require('gulp-rename'),
     postcss = require('gulp-postcss'),
-    cssnano = require('cssnano');
+    cssnano = require('cssnano'),
+    liveReload = require('gulp-livereload');
 
 
 //tareas de desarrollo
